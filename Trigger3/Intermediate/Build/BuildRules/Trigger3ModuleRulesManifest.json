@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Source\\Trigger3\\Trigger3.Build.cs",
+		"C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Source\\Trigger3.Target.cs",
+		"C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Source\\Trigger3Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

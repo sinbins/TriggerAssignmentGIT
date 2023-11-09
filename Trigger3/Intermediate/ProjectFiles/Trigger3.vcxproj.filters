@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Trigger3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Trigger3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Trigger3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Trigger3">
+      <UniqueIdentifier>{5D6F17F6-EA8B-3BC5-81FC-BCF27378F2A4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Trigger3\Sensor.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Sensor.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\TP_PickUpComponent.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\TP_PickUpComponent.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\TP_WeaponComponent.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\TP_WeaponComponent.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Trigger3\Trigger3.Build.cs">
+      <Filter>Source\Trigger3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Trigger3\Trigger3.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Trigger3.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\Trigger3Character.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Trigger3Character.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\Trigger3GameMode.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Trigger3GameMode.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\Trigger3PlayerController.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Trigger3PlayerController.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Trigger3\Trigger3Projectile.cpp">
+      <Filter>Source\Trigger3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Trigger3\Trigger3Projectile.h">
+      <Filter>Source\Trigger3</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

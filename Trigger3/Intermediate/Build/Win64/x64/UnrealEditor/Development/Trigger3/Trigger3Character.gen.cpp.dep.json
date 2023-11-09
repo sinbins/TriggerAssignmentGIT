@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\trigger3character.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\trigger3editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trigger3\\definitions.trigger3.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\source\\trigger3\\trigger3character.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\source\\trigger3\\sensor.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\sensor.generated.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\trigger3character.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

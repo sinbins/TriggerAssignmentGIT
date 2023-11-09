@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\trigger3playercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\trigger3editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trigger3\\definitions.trigger3.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\source\\trigger3\\trigger3playercontroller.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\trigger3playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\source\\trigger3\\trigger3projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\trigger3editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\trigger3\\definitions.trigger3.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\source\\trigger3\\trigger3projectile.h",
+            "c:\\unreal projects\\fps trigger assignment\\triggerassignment\\trigger3\\intermediate\\build\\win64\\unrealeditor\\inc\\trigger3\\uht\\trigger3projectile.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/FirstPerson/Blueprints/BP_Sensor.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/59/T9LR6UTBM9MSCDF2UHA0DH.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/RW/A88PL8ZFI33GX96NA2NP8A.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B4/YIE24168NRM99NWRHCRJDK.uasset",
+				"C:/Unreal Projects/FPS Trigger Assignment/TriggerAssignment/Trigger3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset"
+			]
+		}
+	]
+}

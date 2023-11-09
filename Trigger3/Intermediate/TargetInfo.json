@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Trigger3",
+			"Path": "..\\Source\\Trigger3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Trigger3Editor",
+			"Path": "..\\Source\\Trigger3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
