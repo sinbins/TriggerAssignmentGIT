@@ -9,6 +9,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
+#include "DrawDebugHelpers.h"
 
 // Sets default values for this component's properties
 UTP_WeaponComponent::UTP_WeaponComponent()
@@ -60,6 +61,26 @@ void UTP_WeaponComponent::Fire()
 		{
 			AnimInstance->Montage_Play(FireAnimation, 1.f);
 		}
+	}
+
+}
+
+// Draw a debug line from the gun 
+void UTP_WeaponComponent::DrawLine() {
+	
+	FVector startLocation = GetOwner()->GetActorLocation();
+	FVector endLocation = startLocation + GetOwner()->GetActorRightVector() * 1000;
+	DrawDebugLine(GetWorld(), startLocation, endLocation, FColor::Blue);
+
+	FHitResult hit;
+	FCollisionQueryParams params;
+	if (GetWorld()->LineTraceSingleByChannel(hit, startLocation, endLocation, ECC_Visibility, params))
+	{
+		
+			FVector normal = hit.Normal;
+			FVector impact = hit.ImpactPoint;
+			DrawDebugLine(GetWorld(), impact, impact + normal * 2000, FColor::Magenta);
+		GEngine->AddOnScreenDebugMessage(-1, 0.1f, FColor::Red, TEXT("Hit " + hit.GetActor()->GetName()));
 	}
 }
 
