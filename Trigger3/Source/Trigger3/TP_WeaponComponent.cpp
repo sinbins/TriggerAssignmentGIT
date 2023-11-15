@@ -81,7 +81,15 @@ void UTP_WeaponComponent::DrawLine() {
 			FVector impact = hit.ImpactPoint;
 			DrawDebugLine(GetWorld(), impact, impact + normal * 2000, FColor::Magenta);
 		GEngine->AddOnScreenDebugMessage(-1, 0.1f, FColor::Red, TEXT("Hit " + hit.GetActor()->GetName()));
+
+		float newVector = FVector::DotProduct(normal, endLocation);
+
+		FVector newVector2 = endLocation - 2 * newVector * normal;
+
+		DrawDebugLine(GetWorld(), impact, newVector2 + normal, FColor::Emerald);
 	}
+
+	
 }
 
 void UTP_WeaponComponent::AttachWeapon(ATrigger3Character* TargetCharacter)

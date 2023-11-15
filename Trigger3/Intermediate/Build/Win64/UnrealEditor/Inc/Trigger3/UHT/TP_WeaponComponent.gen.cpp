@@ -31,6 +31,13 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 		P_THIS->EndPlay(EEndPlayReason::Type(Z_Param_EndPlayReason));
 		P_NATIVE_END;
 	}
+	DEFINE_FUNCTION(UTP_WeaponComponent::execDrawLine)
+	{
+		P_FINISH;
+		P_NATIVE_BEGIN;
+		P_THIS->DrawLine();
+		P_NATIVE_END;
+	}
 	DEFINE_FUNCTION(UTP_WeaponComponent::execFire)
 	{
 		P_FINISH;
@@ -51,6 +58,7 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 		UClass* Class = UTP_WeaponComponent::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "AttachWeapon", &UTP_WeaponComponent::execAttachWeapon },
+			{ "DrawLine", &UTP_WeaponComponent::execDrawLine },
 			{ "EndPlay", &UTP_WeaponComponent::execEndPlay },
 			{ "Fire", &UTP_WeaponComponent::execFire },
 		};
@@ -94,6 +102,29 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 		if (!ReturnFunction)
 		{
 			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UTP_WeaponComponent_AttachWeapon_Statics::FuncParams);
+		}
+		return ReturnFunction;
+	}
+	struct Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics
+	{
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[];
+#endif
+		static const UECodeGen_Private::FFunctionParams FuncParams;
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics::Function_MetaDataParams[] = {
+		{ "Category", "Interaction" },
+		{ "ModuleRelativePath", "TP_WeaponComponent.h" },
+	};
+#endif
+	const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_UTP_WeaponComponent, nullptr, "DrawLine", nullptr, nullptr, nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics::Function_MetaDataParams), Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics::Function_MetaDataParams) };
+	UFunction* Z_Construct_UFunction_UTP_WeaponComponent_DrawLine()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_UTP_WeaponComponent_DrawLine_Statics::FuncParams);
 		}
 		return ReturnFunction;
 	}
@@ -221,6 +252,7 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 	static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_UTP_WeaponComponent_Statics::DependentSingletons) < 16);
 	const FClassFunctionLinkInfo Z_Construct_UClass_UTP_WeaponComponent_Statics::FuncInfo[] = {
 		{ &Z_Construct_UFunction_UTP_WeaponComponent_AttachWeapon, "AttachWeapon" }, // 2699010215
+		{ &Z_Construct_UFunction_UTP_WeaponComponent_DrawLine, "DrawLine" }, // 2243741100
 		{ &Z_Construct_UFunction_UTP_WeaponComponent_EndPlay, "EndPlay" }, // 3571639044
 		{ &Z_Construct_UFunction_UTP_WeaponComponent_Fire, "Fire" }, // 962522825
 	};
@@ -357,15 +389,15 @@ void EmptyLinkFunctionForGeneratedCodeTP_WeaponComponent() {}
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UTP_WeaponComponent);
 	UTP_WeaponComponent::~UTP_WeaponComponent() {}
-	struct Z_CompiledInDeferFile_FID_Unreal_Projects_FPS_Trigger_Assignment_TriggerAssignment_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics
+	struct Z_CompiledInDeferFile_FID_GitHubProjects_TriggerAssignmentGit_TriggerAssignmentGIT_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics
 	{
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_FPS_Trigger_Assignment_TriggerAssignment_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UTP_WeaponComponent, UTP_WeaponComponent::StaticClass, TEXT("UTP_WeaponComponent"), &Z_Registration_Info_UClass_UTP_WeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UTP_WeaponComponent), 3046082655U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHubProjects_TriggerAssignmentGit_TriggerAssignmentGIT_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UTP_WeaponComponent, UTP_WeaponComponent::StaticClass, TEXT("UTP_WeaponComponent"), &Z_Registration_Info_UClass_UTP_WeaponComponent, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UTP_WeaponComponent), 296684235U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_FPS_Trigger_Assignment_TriggerAssignment_Trigger3_Source_Trigger3_TP_WeaponComponent_h_2706854360(TEXT("/Script/Trigger3"),
-		Z_CompiledInDeferFile_FID_Unreal_Projects_FPS_Trigger_Assignment_TriggerAssignment_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_FPS_Trigger_Assignment_TriggerAssignment_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHubProjects_TriggerAssignmentGit_TriggerAssignmentGIT_Trigger3_Source_Trigger3_TP_WeaponComponent_h_3065710717(TEXT("/Script/Trigger3"),
+		Z_CompiledInDeferFile_FID_GitHubProjects_TriggerAssignmentGit_TriggerAssignmentGIT_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHubProjects_TriggerAssignmentGit_TriggerAssignmentGIT_Trigger3_Source_Trigger3_TP_WeaponComponent_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

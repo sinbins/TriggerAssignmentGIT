@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p5dwZA6uNCOscz6ZRh7WRAMNoTy54+knfV9CiF1rewgP+WsoHv2Xf8xHjUf0uoILLhUF7NBzl6E9rqhJq+podA==",
+  "dgSpecHash": "NQ1qNiJ61+Q9G20WDes+OJDiG4nH7jUBPPqZ7vUOVsHDJK4t2Qwfc18/M8qrwdv0s5DDqypozTUGQIX1HWIoaQ==",
   "success": true,
-  "projectFilePath": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
+  "projectFilePath": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acost\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\acost\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

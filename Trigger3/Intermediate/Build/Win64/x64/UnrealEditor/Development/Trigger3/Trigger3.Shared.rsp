@@ -256,8 +256,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
-/I "C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\UnrealEditor\Inc\Trigger3\UHT"
-/I "C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Source"
+/I "C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\UnrealEditor\Inc\Trigger3\UHT"
+/I "C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

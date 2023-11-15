@@ -1,9 +1,84 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj": {}
+    "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj": {}
   },
   "projects": {
+    "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
+        "projectName": "Trigger3ModuleRules",
+        "projectPath": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
+        "packagesPath": "C:\\Users\\acost\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\acost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
+                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
+              },
+              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
+                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
+              },
+              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
+                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
+              },
+              "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
+                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
+              },
+              "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
+                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -1053,81 +1128,6 @@
               "version": "[6.0.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
-        "projectName": "Trigger3ModuleRules",
-        "projectPath": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
-        "packagesPath": "C:\\Users\\acost\\.nuget\\packages\\",
-        "outputPath": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\acost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj": {
-                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\MarketplaceRules\\MarketplaceRules.csproj"
-              },
-              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
-                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj"
-              },
-              "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj": {
-                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj"
-              },
-              "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj": {
-                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj"
-              },
-              "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj": {
-                "projectPath": "C:\\Unreal Engine\\UE_5.3\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

@@ -8070,11 +8070,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
+      "projectUniqueName": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
       "projectName": "Trigger3ModuleRules",
-      "projectPath": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
+      "projectPath": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\Trigger3ModuleRules.csproj",
       "packagesPath": "C:\\Users\\acost\\.nuget\\packages\\",
-      "outputPath": "C:\\Unreal Projects\\FPS Trigger Assignment\\TriggerAssignment\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\obj\\",
+      "outputPath": "C:\\GitHubProjects\\TriggerAssignmentGit\\TriggerAssignmentGIT\\Trigger3\\Intermediate\\Build\\BuildRulesProjects\\Trigger3ModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,11 +1,11 @@
-"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Source\Trigger3\Trigger3PlayerController.cpp"
-/FI"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/FI"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Definitions.Trigger3.h"
-/Yu"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
-/Fp"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
-/Fo"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3PlayerController.cpp.obj"
-/sourceDependencies "C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3PlayerController.cpp.dep.json"
-@"C:\Unreal Projects\FPS Trigger Assignment\TriggerAssignment\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3.Shared.rsp"
+"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Source\Trigger3\Trigger3PlayerController.cpp"
+/FI"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/FI"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Definitions.Trigger3.h"
+/Yu"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h"
+/Fp"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\Trigger3Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.pch"
+/Fo"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3PlayerController.cpp.obj"
+/sourceDependencies "C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3PlayerController.cpp.dep.json"
+@"C:\GitHubProjects\TriggerAssignmentGit\TriggerAssignmentGIT\Trigger3\Intermediate\Build\Win64\x64\UnrealEditor\Development\Trigger3\Trigger3.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
